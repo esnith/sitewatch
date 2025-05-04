@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sitewatch",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "638ea963-7924-4a79-85d9-3bbb494deaba",
+      "database_name": "sitewatch"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
